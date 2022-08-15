@@ -9,6 +9,10 @@ group = 'kr.co.sio'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '17'
 
+
+bootWar.enabled = false
+war.enabled = true
+
 repositories {
 	mavenCentral()
 	maven { url 'https://repo.spring.io/milestone' }
