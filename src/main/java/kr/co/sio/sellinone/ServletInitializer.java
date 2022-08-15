@@ -1,4 +1,4 @@
-package com.sellinone.sellinone;
+package kr.co.sio.sellinone;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

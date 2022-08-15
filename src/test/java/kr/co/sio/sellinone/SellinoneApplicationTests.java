@@ -1,4 +1,4 @@
-package com.sellinone.sellinone;
+package kr.co.sio.sellinone;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
